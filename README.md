@@ -1,20 +1,11 @@
 ![header.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/header.png)
 
-<i><b>diss带码</b></i>
-
 <hr>
 <p align="center">
 
 
 <img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
 
-### :sunglasses: About
-
-​	Hi！🙉
-
-​	前端：💯🈲
-
-​	位置：安
 
 
 ### 🤝🏻 Tech Stack
@@ -26,10 +17,10 @@
 ### 👀 Active Repo
 <br />
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=ivideo&theme=radical" /> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=Watch.JS&theme=radical" /> 
 </p>
 
 ### 🙈 statistics
