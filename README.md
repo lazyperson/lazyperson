@@ -1,16 +1,47 @@
-### Hi there 👋
+![header.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/header.png)
 
-<!--
-**lazyperson/lazyperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i><b>diss带码</b></i>
 
-Here are some ideas to get you started:
+<hr>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
+
+### :sunglasses: About
+
+​	Hi！🙉
+
+​	前端：💯🈲
+
+​	位置：安
+
+
+### 🤝🏻 Tech Stack
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/lazyperson)](https://github.com/lazyperson) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/lazyperson)](https://github.com/lazyperson) [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/lazyperson)](https://github.com/lazyperson) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/lazyperson)](https://github.com/lazyperson)[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/lazyperson)](https://github.com/lazyperson) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/lazyperson)](https://github.com/lazyperson)
+
+
+### 👀 Active Repo
+<br />
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=ivideo&theme=radical" /> 
+</p>
+
+### 🙈 statistics
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lazyperson&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyperson&theme=radical&layout=compact&hide=glsl,python" />
+</p>
+
+### 🌱 Connect Me
+![Github](https://img.shields.io/github/followers/lazyperson?label=Github&style=social)
+
+![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
+
+
+
