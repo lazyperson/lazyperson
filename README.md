@@ -12,10 +12,10 @@
 ### 👀 Active Repo
 <br />
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=Watch.JS&theme=radical" /> 
+<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
+<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
+<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
+<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=Watch.JS&theme=radical" /> 
 </div>
 
 ### 🙈 statistics
