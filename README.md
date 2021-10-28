@@ -16,12 +16,12 @@
 
 ### 👀 Active Repo
 <br />
-<p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=Watch.JS&theme=radical" /> 
-</p>
+<div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=Watch.JS&theme=radical" /> 
+</div>
 
 ### 🙈 statistics
 <p>
