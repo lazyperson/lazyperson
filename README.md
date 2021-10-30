@@ -31,8 +31,7 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-73C3D5?logo=Jenkins&logoColor=white" />
   <img alt="Travis CI" src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=Travis%20CI&logoColor=white" />
-  
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
+
 
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
   <img alt="Mobx" src="https://img.shields.io/badge/Mobx-FF9955?logo=Mobx&logoColor=white" />
@@ -40,11 +39,6 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
   
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
   <img alt="Less" src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white" />
-  <img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white" />
-  
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white" />
   
@@ -64,21 +58,9 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/lazyperson)](https://github.com/lazyperson)
 
-
-### 👀 Active Repo
-<br />
-<div>
-<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=cloud-react&theme=radical" />
-<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=react_native_redux_proj&theme=radical" />
-<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=fe-start-kit&theme=radical" />
-<img align="left" width="47%" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=lazyperson&repo=Watch.JS&theme=radical" /> 
-</div>
-
 ### 🙈 statistics
-<p>
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lazyperson&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyperson&theme=radical&layout=compact&hide=glsl,python" />
-</p>
 
 ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
 
