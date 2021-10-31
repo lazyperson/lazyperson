@@ -32,8 +32,6 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](https://github.com/lazyperson) 
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white)](https://github.com/lazyperson) 
 [![Ionic](https://img.shields.io/badge/-Ionic-green?style=flat&logo=Ionic)](https://github.com/lazyperson) 
-[![MS SQL](https://img.shields.io/badge/-MS%20SQL-green?style=flat&logo=Microsoft%20SQL%20Server)](https://github.com/lazyperson) 
-[![SQLite](https://img.shields.io/badge/-SQLite-red?style=flat&logo=SQLite)](https://github.com/lazyperson) 
 [![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=Vite)](https://github.com/lazyperson) 
 [![Babel](https://img.shields.io/badge/-Babel-33333D?style=flat&logo=Babel)](https://github.com/lazyperson) 
 [![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?logo=rollup.js&logoColor=white)](https://github.com/lazyperson) 
@@ -47,8 +45,10 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)](https://github.com/lazyperson) 
 [![C#.NET](https://img.shields.io/badge/-C%23Net-512BD4?style=flat&logo=.net)](https://github.com/lazyperson) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/lazyperson)](https://github.com/lazyperson)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
+[![MS SQL](https://img.shields.io/badge/-MS%20SQL-orange?style=flat&logo=Microsoft%20SQL%20Server)](https://github.com/lazyperson) 
+[![SQLite](https://img.shields.io/badge/-SQLite-red?style=flat&logo=SQLite)](https://github.com/lazyperson) 
+[![MySQL](https://img.shields.io/badge/-MySQL-d1ab66?style=flat&logo=mysql&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
+[![Git](https://img.shields.io/badge/-Git-43a047?style=flat&logo=git&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/lazyperson)](https://github.com/lazyperson)
 
 ### 🙈 statistics
