@@ -3,6 +3,12 @@
   
 ### Hi there 👋 Nice to see you 
 
+Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+ -  I’m currently working on China xi'an
+ -  I'm an author in CSDN, [HomePage](https://blog.csdn.net/BohemianLife?type=blog)
+ -  I'm an author in JueJin, [HomePage](https://juejin.cn/user/3544481220008680)
+ -  connect me 564981089@qq.com
 
 
 ### 🤝🏻 Programming skills
