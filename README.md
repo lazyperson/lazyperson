@@ -1,4 +1,5 @@
 ![header.png](https://s2.loli.net/2022/03/18/QOnSeKJPCkRFHAs.jpg)
+
 <hr>
   
 ### Hi there 👋 Nice to see you 
@@ -44,7 +45,6 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=Travis%20CI&logoColor=white)](https://github.com/lazyperson) 
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)](https://github.com/lazyperson) 
 [![C#.NET](https://img.shields.io/badge/-C%23Net-512BD4?style=flat&logo=.net)](https://github.com/lazyperson) 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/lazyperson)](https://github.com/lazyperson)
 [![MS SQL](https://img.shields.io/badge/-MS%20SQL-orange?style=flat&logo=Microsoft%20SQL%20Server)](https://github.com/lazyperson) 
 [![SQLite](https://img.shields.io/badge/-SQLite-red?style=flat&logo=SQLite)](https://github.com/lazyperson) 
 [![MySQL](https://img.shields.io/badge/-MySQL-d1ab66?style=flat&logo=mysql&link=https://github.com/lazyperson)](https://github.com/lazyperson) 
