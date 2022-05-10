@@ -11,10 +11,6 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 - 🌈 I'm an author in JueJin, [HomePage](https://juejin.cn/user/3544481220008680)
 - 🌍 connect me 564981089@qq.com
 
-<img align="right" width="25%" src="https://s2.loli.net/2022/05/09/OeFDWCXqo8mV6v3.gif"/>
-
-
-
 
 ### 🤝🏻 Programming skills
 
@@ -58,6 +54,8 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 ### 🙈 statistics
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lazyperson&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+
+<img align="right" width="25%" src="https://s2.loli.net/2022/05/09/OeFDWCXqo8mV6v3.gif"/>
 
 ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
 
